@@ -1,0 +1,1 @@
+{"name":"animal-company-symbol-bot","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node --import tsx src/index.js","register":"node --import tsx src/register-commands.js"},"dependencies":{"discord.js":"^14.19.3","dotenv":"^16.4.7","tsx":"^4.19.3"}}
